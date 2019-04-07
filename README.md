@@ -1,5 +1,7 @@
 # [Baxu Anplifikadorea] ()
 
+ Egileak: Jon Morillo, Jon De La Fuente eta Yerai Merchan 
+
 ## AURKIBIDEA ##
 
  1. SARRERA </p>
