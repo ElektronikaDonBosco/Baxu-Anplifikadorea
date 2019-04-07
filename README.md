@@ -1,6 +1,5 @@
 # [Baxu Anplifikadorea] ()
-
- Egileak: Jon Morillo, Jon De La Fuente eta Yerai Merchan 
+    Egileak: Jon Morillo, Jon De La Fuente eta Yerai Merchan 
 
 ## AURKIBIDEA ##
 
