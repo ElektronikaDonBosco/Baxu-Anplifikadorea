@@ -3,14 +3,14 @@
 
 ## AURKIBIDEA ##
 
- 1. SARRERA </p>
- 2. HELBURUA </p>
- 3. MUNTAI PROZEDURA </p>
+1. SARRERA </p>
+2. HELBURUA </p>
+3. MUNTAI PROZEDURA </p>
 &nbsp;&nbsp;&nbsp;&nbsp;3.1 Anplifikagailua </p>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.1.1 anplifikagailuaren plaka </p>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;3.1.2 xafla eta egurraren eraikuntza </p>
 &nbsp;&nbsp;&nbsp;&nbsp;3.2 PedalShield </p>
-4.FUNTZIONAMENDU MEMORIA </p>
+4. FUNTZIONAMENDU MEMORIA </p>
 &nbsp;&nbsp;&nbsp;&nbsp;4.1 Balbulak </p>
 &nbsp;&nbsp;&nbsp;&nbsp;4.2 Anplifikagailua </p>
 &nbsp;&nbsp;&nbsp;&nbsp;4.3 PedalShield </p>
