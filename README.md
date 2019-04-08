@@ -1,4 +1,4 @@
-# [Baxu Anplifikadorea] ()
+# [Baxu Anplifikadorea](https://github.com/ElektronikaDonBosco/Baxu-Anplifikadorea/wiki/BAXU-ANPLIFIKADOREA)
     Egileak: Jon Morillo, Jon De La Fuente eta Yerai Merchan 
 
 ## AURKIBIDEA ##
